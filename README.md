@@ -1,2 +1,2 @@
-# my-github-project-utp-
+# my-github-project-utp
 Este es un laboratorio de practica. 
